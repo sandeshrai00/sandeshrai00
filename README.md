@@ -1,48 +1,32 @@
 <h2 align="center">Sandesh Rai</h2>
 
 <p align="center">
-  Discord Bot Developer • Web App Builder
+  Discord Bot Developer • Web App Developer
 </p>
 
 ---
 
-### Focus
+### About
 
-- Building **Discord bots** with scalable architectures  
-- Developing **web applications** with clean APIs  
-- Emphasis on performance, simplicity, and maintainability  
+I build **Discord bots** and **web applications** with a focus on clean architecture, reliability, and performance.
+
+---
+
+### Work
+
+- Discord bots (music, automation, utilities)
+- Backend & web apps
+- REST APIs
+
+---
+
+### Project
+
+**Mantis**  
+https://dev.auramusic.tech/mantis
 
 ---
 
 ### Stack
 
-- **Languages:** JavaScript, Python  
-- **Backend:** Node.js, Express  
-- **Databases:** MongoDB  
-- **Web:** REST APIs  
-- **Bots:** Discord.js  
-- **Tools:** Git, GitHub
-
----
-
-### Selected Work
-
-- **Aura Music Bot**  
-  Modern Discord music bot  
-  <a href="https://github.com/sandeshrai00/aura-music-bot">Repository</a>
-
----
-
-### GitHub
-
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshrai00&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=666666" />
-</p>
-
-
----
-
-<p align="center">
-  <sub>Minimal • Matte Black • No Noise</sub>
-</p>
+JavaScript • Python • Node.js • Express • MongoDB • Discord.js
