@@ -1,48 +1,46 @@
 <h2 align="center">Sandesh Rai</h2>
 
 <p align="center">
-  Software Developer • Open Source Enthusiast
+  Discord Bot Developer • Web App Builder
 </p>
 
 ---
 
-### About
+### Focus
 
-- Focused on building practical and scalable projects  
-- Interested in backend, automation, and developer tools  
-- Constantly learning and improving
+- Building **Discord bots** with scalable architectures  
+- Developing **web applications** with clean APIs  
+- Emphasis on performance, simplicity, and maintainability  
 
 ---
 
-### Tech Stack
+### Stack
 
 - **Languages:** JavaScript, Python  
 - **Backend:** Node.js, Express  
-- **Tools:** Git, GitHub  
-- **Other:** REST APIs, Automation, Discord Bots
+- **Databases:** MongoDB  
+- **Web:** REST APIs  
+- **Bots:** Discord.js  
+- **Tools:** Git, GitHub
 
 ---
 
-### Projects
+### Selected Work
 
 - **Aura Music Bot**  
-  Discord music bot with modern features  
-  <a href="https://github.com/sandeshrai00/aura-music-bot">View Repository</a>
+  Modern Discord music bot  
+  <a href="https://github.com/sandeshrai00/aura-music-bot">Repository</a>
 
 ---
 
-### GitHub Stats
+### GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeshrai00&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb&icon_color=888888" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeshrai00&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=bbbbbb" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeshrai00&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=666666" />
 </p>
 
 ---
 
-### Contact
-
-- GitHub: https://github.com/sandeshrai00
+<p align="center">
+  <sub>Minimal • Matte Black • No Noise</sub>
+</p>
