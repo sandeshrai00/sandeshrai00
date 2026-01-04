@@ -35,9 +35,11 @@
 
 ### GitHub
 
-<p align="center">
+
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandeshrai00&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=666666" />
 </p>
+
 
 ---
 
