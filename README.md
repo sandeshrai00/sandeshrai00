@@ -16,13 +16,19 @@ I have built **Aura Music Bot**, a Discord music bot used for streaming high-qua
 
 ### Work
 
-- Discord bots (music, automation, utilities)
-- Backend & web apps
+- Discord bots (music, automation, utilities)  
+- Backend & web apps  
 - REST APIs
 
 ---
 
 ### Projects
+
+<p align="center">
+  <a href="https://www.auramusic.tech/">
+    <img src="./assets/aura.png" alt="Aura Music Bot" width="700"/>
+  </a>
+</p>
 
 **Aura Music Bot**  
 https://www.auramusic.tech/
