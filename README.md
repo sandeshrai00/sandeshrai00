@@ -10,6 +10,8 @@
 
 I build **Discord bots** and **web applications** with a focus on clean architecture, reliability, and performance.
 
+I have built **Aura Music Bot**, a Discord music bot used for streaming high-quality music.
+
 ---
 
 ### Work
@@ -20,7 +22,10 @@ I build **Discord bots** and **web applications** with a focus on clean architec
 
 ---
 
-### Project
+### Projects
+
+**Aura Music Bot**  
+https://www.auramusic.tech/
 
 **Mantis**  
 https://dev.auramusic.tech/mantis
