@@ -1,37 +1,40 @@
 <h2 align="center">Sandesh Rai</h2>
 
 <p align="center">
-  Discord Bot Developer • Web App Developer
+  Web App Developer • Discord Bot Developer
 </p>
 
 ---
 
 ### About
 
-I build **Discord bots** and **web applications** with a focus on clean architecture, reliability, and performance.
+I build **web applications and Discord bots** with a focus on clean architecture, reliability, performance, and user experience.
 
-I have built **Aura Music Bot**, a Discord music bot used for streaming high-quality music.
+My main focus is **SoraScore**, a football live-score and statistics platform providing live scores, fixtures, results, standings, player statistics, team information, and more.
 
-I am also currently working on **SoraScore**, a football live-score and statistics platform.
+I also build and maintain **Discord bots**, including **Aura Music Bot**.
 
 ---
 
-### Work
+### Current Work
 
-* Discord bots (music, automation, utilities)
-* Backend & web apps
-* REST APIs
-* Football live-score & statistics platforms
+**SoraScore**
+Football live-score and statistics platform.
+
+https://sorascore.com/
 
 ---
 
 ### Projects
 
 <p align="center">
-  <a href="https://www.auramusic.tech/">
-    <img src="./assets/aura.png" alt="Aura Music Bot" width="700"/>
+  <a href="https://sorascore.com/">
+    <img src="./assets/sorascore.png" alt="SoraScore" width="700"/>
   </a>
 </p>
+
+**SoraScore**
+https://sorascore.com/
 
 **Aura Music Bot**
 https://www.auramusic.tech/
@@ -39,8 +42,16 @@ https://www.auramusic.tech/
 **Mantis**
 https://dev.auramusic.tech/mantis
 
-**SoraScore**
-https://sorascore.com/
+---
+
+### Work
+
+* Web applications
+* Football live-score & statistics platforms
+* Backend development
+* REST APIs
+* Discord bots
+* Database-driven applications
 
 ---
 
