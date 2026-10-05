@@ -28,8 +28,8 @@ https://sorascore.com/
 ### Projects
 
 <p align="center">
-  <a href="https://sorascore.com/">
-    <img src="./assets/sorascore.png" alt="SoraScore" width="700"/>
+  <a href="https://www.auramusic.tech/">
+    <img src="./assets/aura.png" alt="Aura Music Bot" width="700"/>
   </a>
 </p>
 
