@@ -12,13 +12,16 @@ I build **Discord bots** and **web applications** with a focus on clean architec
 
 I have built **Aura Music Bot**, a Discord music bot used for streaming high-quality music.
 
+I am also currently working on **SoraScore**, a football live-score and statistics platform.
+
 ---
 
 ### Work
 
-- Discord bots (music, automation, utilities)  
-- Backend & web apps  
-- REST APIs
+* Discord bots (music, automation, utilities)
+* Backend & web apps
+* REST APIs
+* Football live-score & statistics platforms
 
 ---
 
@@ -30,11 +33,14 @@ I have built **Aura Music Bot**, a Discord music bot used for streaming high-qua
   </a>
 </p>
 
-**Aura Music Bot**  
+**Aura Music Bot**
 https://www.auramusic.tech/
 
-**Mantis**  
+**Mantis**
 https://dev.auramusic.tech/mantis
+
+**SoraScore**
+https://sorascore.com/
 
 ---
 
