@@ -29,7 +29,7 @@ https://sorascore.com/
 
 <p align="center">
   <a href="https://www.auramusic.tech/">
-    <img src="./assets/aura.png" alt="Aura Music Bot" width="700"/>
+    <img src="./assets/newaura.png" alt="Aura Music Bot" width="700"/>
   </a>
 </p>
 
